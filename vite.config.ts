@@ -14,7 +14,7 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 export default defineConfig({
-  base: process.env.NODE_ENV === 'production' ? '/vite-ts-tailwind-starter/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/zeek.ai-official-web/' : '/',
   plugins: [
     vue(),
     AutoImport({

@@ -1,11 +1,11 @@
 # Vite + Vue 3 + TypeScript + Tailwind CSS 启动模板
 
-[![GitHub Stars](https://img.shields.io/github/stars/zeeklog/vite-ts-tailwind-starter?style=social)](https://github.com/zeeklog/vite-ts-tailwind-starter/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/zeeklog/vite-ts-tailwind-starter?style=social)](https://github.com/zeeklog/vite-ts-tailwind-starter/network)
-[![GitHub Issues](https://img.shields.io/github/issues/zeeklog/vite-ts-tailwind-starter)](https://github.com/zeeklog/vite-ts-tailwind-starter/issues)
-[![License](https://img.shields.io/github/license/zeeklog/vite-ts-tailwind-starter)](https://github.com/zeeklog/vite-ts-tailwind-starter/blob/main/LICENSE)
-[![Release](https://img.shields.io/github/v/release/zeeklog/vite-ts-tailwind-starter)](https://github.com/zeeklog/vite-ts-tailwind-starter/releases)
-[![Build Status](https://img.shields.io/github/actions/status/zeeklog/vite-ts-tailwind-starter/build.yml)](https://github.com/zeeklog/vite-ts-tailwind-starter/actions)
+[![GitHub Stars](https://img.shields.io/github/stars/zeeklog/zeek.ai-official-web?style=social)](https://github.com/zeeklog/zeek.ai-official-web/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/zeeklog/zeek.ai-official-web?style=social)](https://github.com/zeeklog/zeek.ai-official-web/network)
+[![GitHub Issues](https://img.shields.io/github/issues/zeeklog/zeek.ai-official-web)](https://github.com/zeeklog/zeek.ai-official-web/issues)
+[![License](https://img.shields.io/github/license/zeeklog/zeek.ai-official-web)](https://github.com/zeeklog/zeek.ai-official-web/blob/main/LICENSE)
+[![Release](https://img.shields.io/github/v/release/zeeklog/zeek.ai-official-web)](https://github.com/zeeklog/zeek.ai-official-web/releases)
+[![Build Status](https://img.shields.io/github/actions/status/zeeklog/zeek.ai-official-web/build.yml)](https://github.com/zeeklog/zeek.ai-official-web/actions)
 
 [English](README.md) | [简体中文](README.cn.md) | [繁體中文](README.hk.md) | [日本語](README.jp.md)
 
@@ -30,7 +30,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/zeeklog/vite-ts-tailwind-starter.git
+git clone https://github.com/zeeklog/zeek.ai-official-web.git
 
 # 进入项目目录
 cd vite-ts-tailwind-starter
