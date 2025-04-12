@@ -1,4 +1,4 @@
-# Vite + Vue 3 + TypeScript + Tailwind CSS 啟動模板
+# 极客ai 啟動模板
 
 [![GitHub Stars](https://img.shields.io/github/stars/zeeklog/zeek.ai-official-web?style=social)](https://github.com/zeeklog/zeek.ai-official-web/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/zeeklog/zeek.ai-official-web?style=social)](https://github.com/zeeklog/zeek.ai-official-web/network)
